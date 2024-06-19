@@ -3,8 +3,7 @@ logs
 logs
 *.log
 
-
-
+# DynamicL:
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
@@ -118,8 +117,6 @@ pycache/
 # Ignore .husky for new contributors using lefthook while maintaining
 # backwards compatibility for past contributors
 .husky
-
-
 # VSCode
 .vscode/launch.json
 packages/protocol/config.js
