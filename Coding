@@ -78,40 +78,40 @@ typings/
 #Next.js build output
 .next
 
-# Nuxt.js build / generate output
+#Nuxt.js build / generate output
 .nuxt
 #dist
 
-# Gatsby files
+#Gatsby files
 .cache/
-# Comment in the public line in if your project uses Gatsby and *not* Next.js
-# https://nextjs.org/blog/next-9-1#public-directory-support
-# public
+#Comment in the public line in if your project uses Gatsby and *not* Next.js
+#https://nextjs.org/blog/next-9-1#public-directory-support
+#public
 
-# vuepress build output
+#vuepress build output
 .vuepress/dist
 
-# Serverless directories
+#Serverless directories
 .serverless/
 
-# FuseBox cache
+#FuseBox cache
 .fusebox/
 
-# DynamoDB Local files
+#DynamoDB Local files
 .dynamodb/
 
-# TernJS port file
+#TernJS port file
 .tern-port
 
-# macOS
+#macOS
 .DS_Store
 
 pycache/
 
-# Ignore .husky for new contributors using lefthook while maintaining
-# backwards compatibility for past contributors
+#Ignore .husky for new contributors using lefthook while maintaining
+#backwards compatibility for past contributors
 .husky
-# VSCode
+#VSCode
 .vscode/launch.json
 packages/protocol/config.js
 .vercel
