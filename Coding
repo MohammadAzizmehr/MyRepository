@@ -106,7 +106,7 @@ typings/
 #macOS
 .DS_Store
 
-pycache/
+pycache
 
 #Ignore .husky for new contributors using lefthook while maintaining
 #backwards compatibility for past contributors
